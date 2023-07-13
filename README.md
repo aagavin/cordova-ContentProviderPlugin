@@ -25,7 +25,7 @@ Through Cordova Repo (stable):
 
 Through Github Repo (latest):
 
-    cordova plugin add https://github.com/phearme/cordova-ContentProviderPlugin
+    cordova plugin add https://github.com/aagavin/cordova-ContentProviderPlugin
 
 ## Example Usage
 
