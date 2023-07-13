@@ -1,5 +1,5 @@
 {
-  "name": "com.phearme.cordovaplugin.ContentProviderPlugin",
+  "name": "com.phearme.cordovaplugin.contentproviderplugin",
   "version": "0.2.7",
   "description": "A generic Cordova plugin for querying Content Providers on Android devices.",
   "cordova": {
